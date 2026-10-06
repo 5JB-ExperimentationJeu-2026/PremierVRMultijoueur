@@ -1932,7 +1932,7 @@ GameObject:
   - component: {fileID: 546291991}
   - component: {fileID: 546291992}
   m_Layer: 0
-  m_Name: NetworkInteractableSpawnerEchec
+  m_Name: NetworkInteractableSpawner_cavalier
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2285,7 +2285,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1074500347}
   m_Layer: 0
-  m_Name: SpawnTransform (1)
+  m_Name: 'SpawnTransform '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
